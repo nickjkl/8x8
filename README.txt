@@ -1,0 +1,2 @@
+The 8x8ledkicad includes the kicad files which includes a schematic.
+The _2_shift_pattern folder contains the source code for running patterns on the 8x8 LED matrix that currently runs on an Atmega 2560 (yea overkill, I know.) I've also included the schematic in pdf format.
